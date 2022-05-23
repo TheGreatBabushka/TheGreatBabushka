@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome my 'GitHub Hub'
 
-You can use the [editor on GitHub](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I can put some neat stuff here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If I want to edit this page, I can easily use [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md).
+
+Alsom whenever someone commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild all of the pages in my site, from the content in your Markdown files. Pretty cool, huh?
 
 ### Markdown
 
