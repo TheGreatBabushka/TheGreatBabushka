@@ -4,7 +4,7 @@ Welcome to my *Hub* - it's got some pretty neat stuff here...
 
 Please, let me show you around. Now, if you'll [follow me...](https://github.com/TheGreatBabushka/#a-cool-section)
 
-## 'A Little Diddly on Edits and Commits'
+## A Little Diddly on Edits and Commits
 
 Did you know... that if *I* want to edit this page, I can do so *easily* by clicking on [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md)
 
