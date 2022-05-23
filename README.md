@@ -1,4 +1,4 @@
-# GitHub Hub - TheGreatBabushka
+# My GitHub Hub 
 
 Welcome to my *Hub* - it's got some pretty neat stuff here...
 
