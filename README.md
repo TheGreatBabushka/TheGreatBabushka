@@ -5,7 +5,7 @@
 - :information_desk_person: *Please*... allow me to give you a tour of the grounds. If you'll [follow me...](https://github.com/TheGreatBabushka/#a-cool-section) :information_desk_person:
 
 ## A Little Diddly on Edits and Commits
-- 🕦 Take your time 🕦 ...we'll embark on the tour [shortly](https://github.com/TheGreatBabushka/#a-cool-section).
+- 🕦 Take your time  ...we'll embark on the tour [shortly](https://github.com/TheGreatBabushka/#a-cool-section) 🕦
 - Did you know... this whole page is written in Markdown (fancy, *right*? 👌)
 - Whenever I want to edit it, I can just click on [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md)
  (psssst... it only works if you've got the :lock: & :key: to this repository!)
@@ -25,9 +25,9 @@ Seriously now... [let's get on with that tour!](https://github.com/TheGreatBabus
 
 - Yeah i know, it's ugly an ugly little 🦆. I'll get to that CSS... one day. 
 
-***But*** - that's not the point. The point is, it's *that* easy to embed Flutter apps into your web page! The possibilities are limitless!
+- ***But*** - that's not the point. The point is, it's *that* easy to embed Flutter apps into your web page! The possibilities are limitless!
 
-###
+### 🆒
 # A Cool Section
 There's really cool stuff down here...
 
