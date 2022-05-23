@@ -2,7 +2,7 @@
 
 - Welcome to my *Hub* - there's some pretty neat stuff laying around here. 
 
-- :information_desk_person: *Please*... allow me to give you a tour of the grounds. If you'll [follow me...](https://github.com/TheGreatBabushka/#this-is-my-cool-section) :information_desk_person:
+- :information_desk_person: *Please*... allow me to give you a tour of the grounds. If you'll [follow me...](https://github.com/TheGreatBabushka/#its-so-) :information_desk_person:
 
 ## A Little Diddly on Edits and Commits
 - 🕦 Take your time  ...we'll embark on the tour [shortly](https://github.com/TheGreatBabushka/#this-is-my-cool-section) 🕦
