@@ -2,16 +2,16 @@
 
 - Welcome to my *Hub* - there's some pretty neat stuff laying around here. 
 
-- :information_desk_person: *Please*... allow me to give you a tour of the grounds. If you'll [follow me...](https://github.com/TheGreatBabushka/#a-cool-section) :information_desk_person:
+- :information_desk_person: *Please*... allow me to give you a tour of the grounds. If you'll [follow me...](https://github.com/TheGreatBabushka/#this-is-my-cool-section) :information_desk_person:
 
 ## A Little Diddly on Edits and Commits
-- 🕦 Take your time  ...we'll embark on the tour [shortly](https://github.com/TheGreatBabushka/#a-cool-section) 🕦
+- 🕦 Take your time  ...we'll embark on the tour [shortly](https://github.com/TheGreatBabushka/#this-is-my-cool-section) 🕦
 - Did you know... this whole page is written in Markdown (fancy, *right*? 👌)
 - Whenever I want to edit it, I can just click on [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md)
  (psssst... it only works if you've got the :lock: & :key: to this repository!)
 
 - Also, whenever someone makes a commit, all of my web pages (both *.html* and *.md*) will automatically get rebuilt - *including* this one! Pretty cool, *huh*? 
-Seriously now... [let's get on with that tour!](https://github.com/TheGreatBabushka/#a-cool-section)
+Seriously now... [let's get on with that tour!](https://github.com/TheGreatBabushka/#this-is-my-cool-section)
 
 
 ## Flutter Web App
