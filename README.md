@@ -9,7 +9,7 @@ Also, whenever someone commits to this repository, GitHub Pages will automatical
 Pretty cool, _huh_?
 
 ### Flutter Web App
-Want to see a demo flutter web app hosted on GitHub pages? [This](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md) should get you what you want.
+Want to see a demo flutter web app hosted on GitHub pages? [This](https://thegreatbabushka.github.io) should get you what you want.
 
 ### Markdown
 
