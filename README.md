@@ -4,7 +4,9 @@ I can put some neat stuff here.
 
 If I want to edit this page, I can easily use [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md).
 
-Alsom whenever someone commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild all of the pages in my site, from the content in your Markdown files. Pretty cool, huh?
+Also, whenever someone commits to this repository, GitHub Pages will automatically rebuild all of the pages in my site. 
+
+Pretty cool, _huh_?
 
 ### Markdown
 
