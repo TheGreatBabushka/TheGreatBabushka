@@ -1,8 +1,8 @@
-## Welcome my 'GitHub Hub'
+## Welcome to my 'GitHub Hub'
 
-I can put some neat stuff here.
+It's got some neat stuff here.
 
-If I want to edit this page, I can easily use [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md).
+For example, if I want to edit this page, I can easily use [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md).
 
 Also, whenever someone commits to this repository, GitHub Pages will automatically rebuild all of the pages in my site, including this one. 
 
