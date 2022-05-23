@@ -4,9 +4,12 @@ I can put some neat stuff here.
 
 If I want to edit this page, I can easily use [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md).
 
-Also, whenever someone commits to this repository, GitHub Pages will automatically rebuild all of the pages in my site. 
+Also, whenever someone commits to this repository, GitHub Pages will automatically rebuild all of the pages in my site, including this one. 
 
 Pretty cool, _huh_?
+
+### Flutter Web App
+Want to see a demo flutter web app hosted on GitHub pages? [This](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md) should get you what you want.
 
 ### Markdown
 
