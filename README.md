@@ -7,6 +7,7 @@ Please, let me show you around. Now, if you'll [follow me...](https://github.com
 ## 'A Little Diddly on Edits and Commits'
 
 Did you know... that if *I* want to edit this page, I can do so *easily* by clicking on [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md)
+
 (psssst... it only works if you've got the :lock: :key: to this repository)
 
 Also, whenever someone makes a new commit, all of the pages in my site will automatically rebuilt - *including* this one! Pretty cool, _huh_? 
