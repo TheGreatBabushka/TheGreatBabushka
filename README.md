@@ -14,7 +14,7 @@ Pretty cool, _huh_?
 Want to see my [demo flutter web app](https://thegreatbabushka.github.io) hosted on GitHub pages?
 
 
-You could also check out a webpage with an [embedded flutter web app](https://thegreatbabushka.github.io/TheGreatBabushka) in its HTML.
+You could also check out my [main webpage](https://thegreatbabushka.github.io/#/), which embeds that same flutter app in its HTML!
 
 
 _Freakin' cool_, amiright?!
