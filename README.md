@@ -18,9 +18,9 @@ Seriously now... [to the next section!](https://github.com/TheGreatBabushka/#a-c
 
 
 ## Flutter Web App
-Hey... you shouldn't be here... [why didn't you click on one of those 🦆-ing links I gave you earlier?!?!?! 🆗... Is this one big enough to click for you, Mr. Explorer?! Mr. "I dont want to click on normal links like a regular person". Will you click this one now!? I bet you didn't know that links could be so long, did you!? Well... they can! But my hand cramping and i need a sip of ☕ now. Clickkkkkkkkkkkkkkkkkk meeeeeeeeeeee](https://github.com/TheGreatBabushka/#a-cool-section))
+Hey... you shouldn't be here... [why didn't you click on one of those 🦆-ing links I gave you earlier?!?!?! 🆗... Is this one big enough to click for you, Mr. Explorer?! Mr. "I dont want to click on normal links like a regular person". Will you click this one now!? I bet you didn't know that links could be so long, did you!? Well... they can! But my hand is cramping and i need a sip of ☕ now.... clickkkkkkkkkkkkkkkkkk meeeeeeeeeeee plzzzz for the love of anything holy just clickkkkkkkkkkkkk meeeeeeeeeeeeeeeee............](https://github.com/TheGreatBabushka/#a-cool-section))
 
-Wellll, while you're heeeere... want to see my [demo flutter web app](https://thegreatbabushka.github.io/TheGreatBabushka) hosted on GitHub pages?
+Wtf. Wellll, while you're heeeere... want to see my [demo flutter web app](https://thegreatbabushka.github.io/TheGreatBabushka) hosted on GitHub pages?
 
 You could also check out my [main webpage](https://thegreatbabushka.github.io/#/), which embeds that same flutter app in its HTML! 
 
