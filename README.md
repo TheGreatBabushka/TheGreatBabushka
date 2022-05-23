@@ -26,7 +26,9 @@ You could also check out my [main webpage](https://thegreatbabushka.github.io/#/
 
 _Freakin' cool_, amiright?!
 
-Yeah i know, it's ugly an ugly little 🦆. I'll get to the CSS... one day. But it's *that* easy to embed Flutter apps into your web page! The possibilities are limitless!
+Yeah i know, it's ugly an ugly little 🦆. I'll get to that CSS... one day. 
+
+***But*** - that's not the point. The point is, it's *that* easy to embed Flutter apps into your web page! The possibilities are limitless!
 
 
 # A Cool Section
