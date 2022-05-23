@@ -1,6 +1,8 @@
 # ✔️ :new: ***My GitHub Hub*** :cool: ✔️
 
-Welcome to my *Hub* - it's got some pretty neat stuff here. Please, let me show you around. 
+Welcome to my *Hub* - there's some pretty neat stuff laying around here. 
+
+:information_desk_person: Please, allow me to give you a tour of the grounds. :information_desk_person: 
 
 Now, if you'll [follow me...](https://github.com/TheGreatBabushka/#a-cool-section)
 
