@@ -1,13 +1,17 @@
-## Welcome to my 'GitHub Hub'
+# GitHub Hub - TheGreatBabushka
 
-It's got some neat stuff here.
+Welcome to my *Hub* - it's got some pretty neat stuff here...
 
-Like, if I want to edit this page... I can easily use [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md) (psssst... it only works if you've got the :key: :lock: to this repository)
+Let me show you! If you'll [follow me](https://github.com/TheGreatBabushka/#a-cool-section)...
 
-Also, whenever someone makes a new commit, all of the pages in my site will automatically rebuild - including this one!
+### A Little Diddly
 
-Pretty cool, _huh_?
+Did you know... that if I want to edit this page, I can *easily* do so by clicking on [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md)
+(psssst... it only works if you've got the :key: :lock: to this repository)
 
+Also, whenever someone makes a new commit, all of the pages in my site will automatically rebuild - including this one! Pretty cool, _huh_? 
+
+Seriously now... [to the next section!](https://github.com/TheGreatBabushka/TheGreatBabushka/main/README.md)
 
 
 ### Flutter Web App
@@ -19,34 +23,7 @@ You could also check out my [main webpage](https://thegreatbabushka.github.io/#/
 
 _Freakin' cool_, amiright?!
 
-### Markdown
+# A Cool Section
+There's really cool stuff down here...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheGreatBabushka/TheGreatBabushka/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+...trust me.
