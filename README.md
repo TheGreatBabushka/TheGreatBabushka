@@ -32,3 +32,6 @@ Seriously now... [let's get on with that tour!](https://github.com/TheGreatBabus
 There's *really* cool stuff down here...
 
 ...trust me.
+
+# Go On, Explore!
+- Well, that about wraps up the tour. Thanks for coming along! Feel free to look around.
