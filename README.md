@@ -33,5 +33,9 @@ There's *really* cool stuff down here...
 
 ...trust me.
 
-# Go On, Explore!
+- 💡 This is something totally cool. Use your imagination! Like, reeeeallyyyy hard... 💡
+
+### Wasn't that cool?!
+
+# Go on, Explore!
 - Well, that about wraps up the tour. Thanks for coming along! Feel free to look around.
