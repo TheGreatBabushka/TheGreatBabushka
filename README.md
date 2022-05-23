@@ -27,8 +27,8 @@ Seriously now... [let's get on with that tour!](https://github.com/TheGreatBabus
 
 - ***But*** - that's not the point. The point is, it's *that* easy to embed Flutter apps into your web page! The possibilities are limitless!
 
-### 🆒
-# A Cool Section
+# It's So 🆒
+## This is my *Cool* Section
 There's really cool stuff down here...
 
 ...trust me.
