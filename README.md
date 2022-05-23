@@ -10,7 +10,7 @@
 - Whenever I want to edit it, I can just click on [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md)
  (psssst... it only works if you've got the :lock: & :key: to this repository!)
 
-- Also, whenever someone makes a commit, all of my web pages (both *.html* and *.md*) will automatically get rebuilt - *including* this one! Pretty cool, *huh*? 
+- Also, whenever a new commit comes in, all of my web pages (both *.html* and *.md*) will automatically get rebuilt - *including* this one! Pretty cool, *huh*? 
 Seriously now... [let's get on with that tour!](https://github.com/TheGreatBabushka/#its-so-)
 
 
