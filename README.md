@@ -4,7 +4,7 @@ It's got some neat stuff here.
 
 Like, if I want to edit this page... I can easily use [this link](https://github.com/TheGreatBabushka/TheGreatBabushka/edit/main/README.md).
 
-Also, whenever someone commits to this repository, GitHub Pages will automatically rebuild all of the pages in my site, including this one. 
+Also, whenever someone commits to this repository, GitHub will automatically rebuild all of the pages in my site, including this one. 
 
 Pretty cool, _huh_?
 
